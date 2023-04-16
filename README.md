@@ -14,6 +14,6 @@ https://github.com/hayatelallaouy/JEE/tree/master/hospital
 https://github.com/hayatelallaouy/JEE/tree/master/jpa-emsi
 
 -----------------------------------------
-Activity 3 :
+Activity 3 & 4:
 ----------------------
 + https://github.com/hayatelallaouy/JEE/tree/master/patients-mvc
