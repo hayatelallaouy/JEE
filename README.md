@@ -10,4 +10,5 @@ Activity 2 :
 + PART 2:
 https://github.com/hayatelallaouy/JEE/tree/master/hospital
 
-PART 3:
++ PART 3:
+https://github.com/hayatelallaouy/JEE/tree/master/jpa-emsi
