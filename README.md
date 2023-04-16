@@ -16,4 +16,6 @@ https://github.com/hayatelallaouy/JEE/tree/master/jpa-emsi
 -----------------------------------------
 Activity 3 & 4:
 ----------------------
-+ https://github.com/hayatelallaouy/JEE/tree/master/patients-mvc
+
++ PART 1 & 2 & 3 :
+  https://github.com/hayatelallaouy/JEE/tree/master/patients-mvc
