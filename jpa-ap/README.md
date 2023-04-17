@@ -37,7 +37,7 @@
 
 ![image](https://user-images.githubusercontent.com/123452386/232618272-f35bcde6-1158-4d7a-a4be-48de3ee4013c.png)
 
-+the Result in the Console 
++ the Result in the Console 
 
 ![image](https://user-images.githubusercontent.com/123452386/232618458-9c47dad8-64da-42eb-a781-b9eca19a41a1.png)
 
