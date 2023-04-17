@@ -26,7 +26,7 @@ Activity 2 - >  PART 2 : Jpa -emsi
 
 ![image](https://user-images.githubusercontent.com/123452386/232621227-bc68e1ae-6f68-4295-b082-bd12ddeef431.png)
 
-+ The Class User serviceImpl which Impliment the Interface User Service 
++ The Class User serviceImpl which Implement the Interface User Service 
 
 ![image](https://user-images.githubusercontent.com/123452386/232621499-961e8800-3c70-46df-ad2e-5f946ff36100.png)
 
