@@ -29,3 +29,27 @@
 
 ![image](https://user-images.githubusercontent.com/123452386/232617777-e4905cc6-31ef-440e-815b-6150aa1c8154.png)
 
+
+![image](https://user-images.githubusercontent.com/123452386/232617924-012770a5-11d0-426a-a1a1-13e00eddec4f.png)
+ 
+ 
+ + The result in Database Patient
+
+![image](https://user-images.githubusercontent.com/123452386/232618272-f35bcde6-1158-4d7a-a4be-48de3ee4013c.png)
+
++the Result in the Console 
+
+![image](https://user-images.githubusercontent.com/123452386/232618458-9c47dad8-64da-42eb-a781-b9eca19a41a1.png)
+
++ Change Application Properties to connect with MySql DataBase 
+
+![image](https://user-images.githubusercontent.com/123452386/232618722-2d7b650c-c24b-48c0-8e70-cf560e5035e7.png)
+ 
+ + The Result of MySql DataBase of Patient 
+
+![image](https://user-images.githubusercontent.com/123452386/232619016-9f3a131d-2df6-4d35-ab98-880071462173.png)
+
+
+
+
+
