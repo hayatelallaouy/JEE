@@ -33,3 +33,17 @@
 +The main Class Patient Application 
 
 ![image](https://user-images.githubusercontent.com/123452386/232915604-a8294fd6-a4d2-40e3-85f3-cc85eab15632.png)
+
++ Authentication Page 
+
+![image](https://user-images.githubusercontent.com/123452386/232916800-d51d0a47-f544-430a-b793-8321485f7ba3.png)
+
++ The Admin interface (Can search or edit or add Patients  )
+
+![image](https://user-images.githubusercontent.com/123452386/232916944-2904f004-3ae6-4536-9da0-72bdef5b4c99.png)
+
++ The user interface ( Can search for patients )
+
+![image](https://user-images.githubusercontent.com/123452386/232917369-60814c6b-320a-4bef-8851-cfe3480abc4b.png)
+
+
