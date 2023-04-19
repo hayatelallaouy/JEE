@@ -50,6 +50,6 @@
 
 ![image](https://user-images.githubusercontent.com/123452386/233088785-df964c0d-d043-496d-bfd1-88d7334b20cf.png)
 
-+ The Page of Creat New Patient 
++ The Page of Create New Patient 
 
 ![image](https://user-images.githubusercontent.com/123452386/233089222-2550def8-6676-49cd-be97-6ee750b3d3b3.png)
