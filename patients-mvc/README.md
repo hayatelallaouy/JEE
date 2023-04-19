@@ -46,4 +46,7 @@
 
 ![image](https://user-images.githubusercontent.com/123452386/232917369-60814c6b-320a-4bef-8851-cfe3480abc4b.png)
 
++ The Page of edit Patient
+
+![image](https://user-images.githubusercontent.com/123452386/233088785-df964c0d-d043-496d-bfd1-88d7334b20cf.png)
 
